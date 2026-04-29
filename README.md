@@ -44,6 +44,7 @@ from Landsat 8 satellite imagery.
 This project was built following completion of:
 - NASA ARSET — Fundamentals of Remote Sensing 
   (April 2026)
+- Kaggle — Intro to Programming with Python (April 2026)
 
 ## 🔗 How to Run
 1. Open Google Earth Engine Code Editor
