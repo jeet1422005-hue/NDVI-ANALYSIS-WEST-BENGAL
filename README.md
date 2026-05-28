@@ -46,6 +46,7 @@ This project was built following completion of:
   (April 2026)
 - Kaggle — Intro to Programming with Python (April 2026)
 - Kaggle — Python Certificate (May 2026)
+- kaggle - Pandas Certificate (May 2026)
 ## 🔗 How to Run
 1. Open Google Earth Engine Code Editor
 2. Copy code from ndvi_analysis.js
