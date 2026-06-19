@@ -1,4 +1,4 @@
-# NDVI Analysis — West Bengal, India
+# NDVI Analysis with the help of Claude— West Bengal, India
 ### Using Google Earth Engine & Landsat 8 Satellite Data
 
 ## 👤 Author
